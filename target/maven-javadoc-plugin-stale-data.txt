@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+22
+-sourcepath
+'C:/Users/PC/Documents/NetBeansProjects/JugoAhorcado/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/PC/Documents/NetBeansProjects/JugoAhorcado/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JugoAhorcado 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JugoAhorcado 1.0-SNAPSHOT API'
+com.mycompany.jugoahorcado
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\src\main\java = 1734944079273
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\allclasses-index.html = 1736013949348
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\allpackages-index.html = 1736013949353
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\element-list = 1736013949262
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\help-doc.html = 1736013949412
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\index-all.html = 1736013949398
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\index.html = 1736013949405
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\member-search-index.js = 1736013949361
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\module-search-index.js = 1736013949356
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\overview-tree.html = 1736013949327
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\package-search-index.js = 1736013949358
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\search.html = 1736013949402
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\tag-search-index.js = 1736013949363
+C:\Users\PC\Documents\NetBeansProjects\JugoAhorcado\target\reports\apidocs\type-search-index.js = 1736013949359
